@@ -1,6 +1,6 @@
 ## <h1>Kqsy ✨🧃</h1>
 
-Kosuri/Kqsy/Kos
+Kosuri/Kqsy/Kosi
 
 -------
 <p align="left"> <a href="https://discord.com/users/663912795032780810" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/663912795032780810.png" alt="Kosuri#6719 on Discord"/> </a>
