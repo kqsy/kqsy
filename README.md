@@ -6,7 +6,7 @@ Kosuri/Kqsy/Kos
 <p align="left"> <a href="https://discord.com/users/663912795032780810" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/663912795032780810.png" alt="Kosuri#6719 on Discord"/> </a>
 
 About Me:
-I am an 19 yo. content creator and developer from Los Angeles, California.
+I am an 20 yo. content creator and developer from Los Angeles, California.
 I mainly code for fun, but will sometimes work on paid tools and other projects.
 =======
 <h3 align="left">Languages:</h3>
