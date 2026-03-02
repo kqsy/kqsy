@@ -23,4 +23,4 @@ Contact Email: `TBD`
 ------
 Pronouns: She/Her/Kos
 -----------------------------------------------------------------------
-<p align="left"> <a href="https://teamkuso.xyz/discord/" target="_blank"> <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Team Kuso Official Discord Server" width="40" height="40"/> </a> <a href="https://smg.rip/" target="_blank"> <img src="https://raw.githubusercontent.com/Elegyrip/smg/refs/heads/main/assets/ak.png" width="40" height="40"/> </a>
+<p align="left"> <a href="https://discord.gg/5c4whWX" target="_blank"> <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Team Kuso Official Discord Server" width="40" height="40"/> </a> <a href="https://smg.rip/" target="_blank"> <img src="https://raw.githubusercontent.com/Elegyrip/smg/refs/heads/main/assets/ak.png" width="40" height="40"/> </a>
