@@ -17,9 +17,9 @@ I mainly code for fun, but will sometimes work on paid tools and other projects.
 <a href="https://github.com/kqsy" target="_self"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqsy&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=00000000"/> </a>
 
 -------
-Current Project(s): [smg.rip](https://github.com/Elegyrip/smg), [Eclipse](https://github.com/EclipseFN), [Kuso Nuker V3](https://teamkuso.xyz/nuker)
+Current Project(s): [smg.rip](https://github.com/Elegyrip/smg)
 -------
-Contact Email: `kosuri@teamkuso.xyz`
+Contact Email: `TBD`
 ------
 Pronouns: She/Her/Kos
 -----------------------------------------------------------------------
